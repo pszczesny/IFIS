@@ -1,0 +1,7 @@
+IFIS_Automation.suo
+Local.testsettings
+IFIS_Tests/bin/
+IFIS_Tests/obj/
+IFIS_PageObject/bin/
+IFIS_PageObject/obj/
+.~
