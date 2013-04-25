@@ -13,7 +13,6 @@ namespace IFIS_PageObject
     {
         private static IWebDriver selenium = null;
 
-
         public static void Open()
         {
             init();
@@ -42,7 +41,6 @@ namespace IFIS_PageObject
 
         public static class GoTo
         {
-
 
             public static HomePage HomePage()
             {

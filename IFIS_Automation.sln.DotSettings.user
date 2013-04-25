@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionDefault/GroupingIndex/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1999704A4C164033828CBFFF387EF2D9/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1999704A4C164033828CBFFF387EF2D9/GroupingIndex/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1999704A4C164033828CBFFF387EF2D9/Name/@EntryValue">Login</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1999704A4C164033828CBFFF387EF2D9/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="IFIS_Tests.Test_Access" type="NUnitTestFixtureElement" Project="6A4D00E4-58D9-47C5-8B9C-04B121169CD6" /&gt;&lt;UnitTestElement Provider="nUnit" Id="IFIS_Tests.Test_Access.Login_Logout" ParentId="IFIS_Tests.Test_Access" type="NUnitTestElement" TypeName="IFIS_Tests.Test_Access" MethodName="Login_Logout" Project="6A4D00E4-58D9-47C5-8B9C-04B121169CD6" /&gt;&lt;UnitTestElement Provider="nUnit" Id="IFIS_Tests.Test_Access.My_Account" ParentId="IFIS_Tests.Test_Access" type="NUnitTestElement" TypeName="IFIS_Tests.Test_Access" MethodName="My_Account" Project="6A4D00E4-58D9-47C5-8B9C-04B121169CD6" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	</wpf:ResourceDictionary>
